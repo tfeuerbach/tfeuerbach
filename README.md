@@ -4,6 +4,8 @@
 
 My name is Thomas Feuerbach and I'm a data/software engineer. At work, I develop and maintain data pipelines along with the processes/tools for any manipulation and transformations done along the way. For fun I like to learn new technologies, experiement with small projects, play some video games, and ski. I love working in Ubuntu w/ ZSH and Python and am learning Elixir and C++ for fun w/ Unreal Engine.
 
+<p align="center"><img src="https://raw.githubusercontent.com/martinraison/ascii-tv/c0514a33288e525ea9d6ed9daca6305836872089/demo.svg"></p>
+
 ## 🔧 Languages I Work With
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
