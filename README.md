@@ -2,7 +2,7 @@
 
 # Hey! <img src="https://raw.githubusercontent.com/tfeuerbach/tfeuerbach/master/wave.gif" width="30px" height="30px" />
 
-My name is Thomas Feuerbach and I'm a data/software engineer. At work, I develop and maintain data pipelines along with the processes/tools for any manipulation and transformations done along the way. For fun I like to learn new technologies, experiement with small projects, play some video games, and ski. I love working in Linux w/ ZSH and Python and am learning Elixir and C++ for fun w/ Unreal Engine.
+My name is Thomas Feuerbach and I'm a data/software engineer. At work, I develop and maintain data pipelines along with the processes/tools for any manipulation and transformations done along the way. For fun I like to learn new technologies, experiement with small projects, play some video games, and ski. I love working in Ubuntu w/ ZSH and Python and am learning Elixir and C++ for fun w/ Unreal Engine.
 
 ## 🔧 Technologies & Tools I Work With
 
