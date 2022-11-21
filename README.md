@@ -23,7 +23,7 @@ My name is Thomas Feuerbach and I'm a data/software engineer. At work, I develop
 
 ## &#x270d; Blog & Writing
 
-Apart from coding and learning, I also maintain a blog where I upload personal projects and things I find helpful/interesting things I've learned.
+Apart from coding and learning, I also maintain a blog where I upload personal projects and things I find helpful/interesting.
 
 <!-- blog examples here
 
