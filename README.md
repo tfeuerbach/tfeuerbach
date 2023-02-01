@@ -2,7 +2,7 @@
 
 # Hey! <img src="https://raw.githubusercontent.com/tfeuerbach/tfeuerbach/master/wave.gif" width="30px" height="30px" />
 
-My name is Thomas Feuerbach and I'm a data/software engineer. At work, I develop and maintain data pipelines along with the processes/tools for any manipulation and transformations done along the way. For fun I like to learn new technologies, experiement with small projects, play some video games, and ski. I love working in Ubuntu and use mainly ZSH & Python but also dabble w/ some web development. I'm currently learning Elixir and C++ for fun w/ Unreal Engine.
+My name is Thomas Feuerbach and I'm a data/software engineer. At work, I develop and maintain data pipelines along with the processes/tools for any manipulation and transformations done along the way. For fun I like to learn new technologies, experiement with small projects, play some video games, and ski. I work mainly in Ubuntu and RHEL with Python but also dabble w/ some web development. I'm currently learning Elixir and C++ for fun w/ Unreal Engine.
 
 <p align="center"><img src="https://raw.githubusercontent.com/martinraison/ascii-tv/c0514a33288e525ea9d6ed9daca6305836872089/demo.svg"></p>
 
