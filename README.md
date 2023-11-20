@@ -55,22 +55,13 @@ Apart from coding and learning, I also maintain a blog where I upload personal p
 <a href="https://github.com/tfeuerbach/tfeuerbach">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tfeuerbach&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thomas' GitHub Stats" />
 </a>
-
 <a href="https://github.com/tfeuerbach/feuerbachwedding.com">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tfeuerbach&repo=feuerbachwedding.com&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
 <a href="https://github.com/tfeuerbach/url_shortener">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tfeuerbach&repo=url_shortener&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-##
-<!--🐍💬SNAKETEXT / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/tfeuerbach/tfeuerbach/output/github-contribution-grid-snake.svg" width="100%">
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
