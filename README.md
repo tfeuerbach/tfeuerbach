@@ -62,6 +62,20 @@ Apart from coding and learning, I also maintain a blog where I upload personal p
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tfeuerbach&repo=url_shortener&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tfeuerbach/tfeuerbach/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tfeuerbach/tfeuerbach/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/tfeuerbach/tfeuerbach/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
