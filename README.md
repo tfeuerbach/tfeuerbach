@@ -2,7 +2,7 @@
 
 # Hey! <img src="https://raw.githubusercontent.com/tfeuerbach/tfeuerbach/master/wave.gif" width="30px" height="30px" />
 
-My name is Thomas Feuerbach and I'm a data scientist/engineer. At work, I develop and maintain data pipelines along with the processes/tools for any manipulation and transformations done along the way. On top of that I work with a variety of Python libraries to develop tools for training CV models in the context of UAS/USVs. The systems these get trained on AGX100 servers or beefed up SuperMicros that are installed and configured by me at the data centers nearby. I spend about 1/4 of my time working with hardware installs and the other 3/4 configuring, administrating, networking, and developing on them. For fun I like to learn new technologies, experiement with small projects, play some video games, and ski. I work mainly in Ubuntu and RHEL with Python but also dabble w/ some web development. I'm currently learning Elixir and C++ for fun w/ Unreal Engine and developing SaaS tools.
+My name is Thomas Feuerbach and I'm a data scientist/engineer. At work, I develop and maintain data pipelines along with the processes/tools for any manipulation and transformations done along the way. On top of that I work with a variety of Python libraries to develop tools for training CV models in the context of UAS/USVs. The systems these get trained on AGX100 servers or beefed up SuperMicros that are installed and configured by me at the data centers nearby. I spend about 1/4 of my time working with hardware installs and the other 3/4 configuring, administrating, networking, and developing on them. For fun I like to learn new technologies, experiement with small projects, play a lot of video games, and ski. I work mainly in Ubuntu and RHEL and my primary language is Python but also dabble w/ some web development. I'm currently learning Elixir and C++ for fun w/ Unreal Engine and developing SaaS tools.
 
 <p align="center"><img src="https://raw.githubusercontent.com/martinraison/ascii-tv/c0514a33288e525ea9d6ed9daca6305836872089/demo.svg"></p>
 
@@ -25,6 +25,8 @@ My name is Thomas Feuerbach and I'm a data scientist/engineer. At work, I develo
 <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="#"><img height="27" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"></a>
+<a href="#"><img height="27" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="nVIDIA"></a>
 <a href="#"><img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github%20actions&logoColor=white"></a>
 
